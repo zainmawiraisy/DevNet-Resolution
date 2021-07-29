@@ -1,0 +1,3 @@
+DevNet Resolusi
+- Konsisten Belajar seminggu 2 kali
+- Belajar secara bertahap berdasarkan DevNet Cert Guide
