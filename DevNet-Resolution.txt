@@ -1,5 +1,6 @@
 DevNet Resolusi
 - Konsisten Belajar seminggu 2 kali
 - Belajar secara bertahap berdasarkan DevNet Cert Guide
-- Saya harus ambil sertifikasi DevNet di Tahun ini
 - Semakin banyak melihat tutorial coding 
+- Saya harus mengikuti Training DevNet Professional
+- Saya harus menambah kompetensi DevNet Professional
