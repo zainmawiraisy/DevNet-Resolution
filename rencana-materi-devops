@@ -1,6 +1,8 @@
 Rencana Konten:
 - Software Development and Design
+  *setting up windows workstation as development environment
 - Understanding and using APIs
+  *construct a REST API request to accomplish a task given API documentation
 - Cisco Platform and Development
 - Application Deployment and Security
 - Infrastructure and Automation
